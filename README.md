@@ -1,7 +1,3 @@
 # Practice-Git
 
-
-
-change one = hello change one
-
-change two = hello change two
+Changes dec 3 - Demo
